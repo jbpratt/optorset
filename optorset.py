@@ -5,8 +5,6 @@ from array import array
 from typing import Any
 from typing import Set
 from typing import Tuple
-from uuid import UUID
-from uuid import uuid4
 
 
 class OptORSet:
